@@ -104,7 +104,7 @@ class Pokemon extends React.Component {
 
                     <input type="checkbox" id="my-modal" class="modal-toggle" />
                     <div class="modal ">
-                        <div class="modal-box bg-[#4DAD5B]">
+                        <div class="modal-box">
                             <div class="modal-action mt-1    mr-1">
 
                                 <label for="my-modal" class="btn btn-circle mr-[100xp]">
