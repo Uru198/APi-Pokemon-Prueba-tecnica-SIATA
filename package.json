@@ -1,0 +1,23 @@
+{
+  "name": "api-pokemon-prueba-tecnica-siata",
+  "version": "1.0.0",
+  "description": "Prueba tecnica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uru198/APi-Pokemon-Prueba-tecnica-SIATA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uru198/APi-Pokemon-Prueba-tecnica-SIATA/issues"
+  },
+  "homepage": "https://github.com/Uru198/APi-Pokemon-Prueba-tecnica-SIATA#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
